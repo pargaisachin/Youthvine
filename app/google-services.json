@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "457877217049",
+    "firebase_url": "https://youthvine-26ea8.firebaseio.com",
+    "project_id": "youthvine-26ea8",
+    "storage_bucket": "youthvine-26ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457877217049:android:544d8d252ff54373",
+        "android_client_info": {
+          "package_name": "com.example.sachin.youthvine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457877217049-7s177p8b63fsgo35usqpqtklip6es9jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sachin.youthvine",
+            "certificate_hash": "bfc345d4ded0fffb914f629dd2fe87524e9322a3"
+          }
+        },
+        {
+          "client_id": "457877217049-4fqmim0ouk15617bg2dffjlba73ae5j0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "457877217049-4fqmim0ouk15617bg2dffjlba73ae5j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOgiygMbI5MstbrpkjdLtlVT0KlxMxxKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457877217049-4fqmim0ouk15617bg2dffjlba73ae5j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
